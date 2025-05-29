@@ -45,13 +45,13 @@
 
 | Project       | Description                                 | Tech Stack                        |
 |---------------|---------------------------------------------|-----------------------------------|
-| **E-Commerce App** | Shopping cart with auth and admin role support | MERN, Redux Toolkit, Tailwind CSS Typescript, JWT |
+| **E-Commerce-App** | Shopping cart with auth and admin role support | MERN, Redux Toolkit, Tailwind, Typescript, JWT |
 | **Meal Hub** |Search for favourite meal recipe | React, Typescript, Zustand, Tailwind  |
-| **TaskNest**  | Kanban-style task manager with micro-frontends | React, Webpack, Typescript |
+| **TaskNest**  | Kanban-style task manager with micro-frontends | React, Webpack, Typescript, styled-components |
 
 
 
-➡️ [See more on my GitHub](https://github.com/your-username)
+➡️ [See more on my GitHub](https://github.com/React-Ts-Apps)
 
 ---
 
@@ -72,5 +72,5 @@
 
 ---
 
-🧠 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
