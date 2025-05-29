@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Engineer & Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/ShijiBijo84" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://shiji-bijo.netlify.app/main.pdf" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:shijib.bijo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shiji-bijo-8468b642/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -77,7 +77,7 @@
 
 - Email: `shijib.bijo@gmail.com`
 - LinkedIn: [ShijiBijo-linkedin](https://www.linkedin.com/in/shiji-bijo-8468b642/)
-- Portfolio: [shijibijo-portfolio.com](https://github.com/ShijiBijo84/)
+- Portfolio: [shijibijo-portfolio.com](https://shiji-bijo.netlify.app/main.pdf)
 
 ---
 
