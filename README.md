@@ -16,9 +16,9 @@
 - 🔭 I’m currently working on both **frontend and full stack portfolio projects**
 - 🌱 Learning advanced **Typescript, React, Redux, Zustand, TanStack Query**, and **DevOps (AWS, CI/CD)**
 - 👨‍💻 My past work includes:
-  - Scalable front-end systems for oil & gas software
-  - Formal verification of multi-core memory models
-  - Contract-based model verification for medical systems
+  - Scalable front-end systems for oil & gas industry
+  - Formal verification of multi-core memory models (R&D)
+  - Contract-based model verification for medical systems (R&D)
 - 💼 Looking to collaborate on real-world SaaS projects
 
 ---
@@ -35,8 +35,17 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+#### 🎨 Styling & UI
+
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![styled-components](https://img.shields.io/badge/-styled--components-db7093?style=flat&logo=styled-components&logoColor=white)
+
+
 #### DevOps & Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
